@@ -100,6 +100,7 @@ Ce sont seulement des apparences : elles ne donnent ni force, ni protection.
 | **Facultatif** | Votifier / NuVotifier |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkPNJ](https://github.com/SnkStudio/SnkPNJ)** : des personnages qui portent chapeaux et masques
 - **[SnkInterface](https://github.com/SnkStudio/SnkInterface)** : la garde-robe dans un menu principal, chat, TAB et hologrammes
 - **[SnkPass](https://github.com/SnkStudio/SnkPass)** : des cosmétiques à gagner dans le pass ; ses titres, couleurs et particules apparaissent dans la garde-robe
 - **[SnkMetiers](https://github.com/SnkStudio/SnkMetiers)** : de l'argent à gagner pour les acheter
